@@ -3,7 +3,7 @@
 <img align="right" src='https://github-readme-stats.vercel.app/api?username=yuan1'>
 </a>
 
-## 大明哥 Hi there 👋
+## Hi there 👋
 
 > 😄
 
