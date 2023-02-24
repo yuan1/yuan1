@@ -7,7 +7,7 @@
 
 > 😄
 
-[![Blog](https://img.shields.io/badge/limingyuan.cf-green?logo=microsoftedge)](https://limingyuan.cf)
+[![Blog](https://img.shields.io/badge/yuan1.github.io-green?logo=microsoftedge)](https://yuan1.github.io)
 
 <!--
 **yuan1/yuan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
